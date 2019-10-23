@@ -93,12 +93,12 @@
 
                 <h2>About Team</h2>
 
-                <p>
+                <p align="justify">
                     We are an Agile Development Team distributed over the World but with one phisical head quarter in Sicily Island.
-                    most of our work is not in writing software but in creating tools to improve developer productivity.
+                    Most of our work is not in writing software but in creating tools to improve developer productivity.
                     We always put ourselves at the disposal of anyone who wants to find solutions to accelerate,
-                    optimize and perfect the process of creating quality software.
-                    We carry out this mission free of charge through the Open Source contribution,
+                    optimize and perfect the process of creating quality software,
+                    we carry out this mission free of charge through the Open Source contribution,
                     but also as specialists at your service. The whole team shares a passion for CI/CD technologies.
                 </p>
 
@@ -809,43 +809,35 @@
 
          </div>
 
-         <div class="row">
+            <div class="row">
 
-            <div class="eight columns">
+                <div class="eight columns">
 
-               <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
-					<fieldset>
-
-                  <div>
-						   <label for="contactName">Name <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName">
-                  </div>
-
-                  <div>
-						   <label for="contactEmail">Email <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
-                  </div>
-
-                  <div>
-						   <label for="contactSubject">Subject</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
-                  </div>
-
-                  <div>
-                     <label for="contactMessage">Message <span class="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div>
-                     <button class="submit">Submit</button>
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif">
-                     </span>
-                  </div>
-
-					</fieldset>
-				   </form> <!-- Form End -->
+                    <!-- form -->
+                    <form action="https://formspree.io/info@javanile.org" method="post" id="contactForm" name="contactForm">
+                        <fieldset>
+                            <div>
+                                <label for="contactName">Name <span class="required">*</span></label>
+                                <input type="text" value="" size="35" id="contactName" name="contactName">
+                            </div>
+                            <div>
+                                <label for="contactEmail">Email <span class="required">*</span></label>
+                                <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
+                            </div>
+                            <div>
+                                <label for="contactSubject">Subject</label>
+                                <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
+                            </div>
+                            <div>
+                                <label for="contactMessage">Message <span class="required">*</span></label>
+                                <textarea cols="50" rows="5" id="contactMessage" name="contactMessage"></textarea>
+                            </div>
+                            <div>
+                                <button class="submit">Submit</button>
+                                <span id="image-loader"><img alt="" src="images/loader.gif"></span>
+                            </div>
+                        </fieldset>
+                    </form> <!-- Form End -->
 
                <!-- contact-warning -->
                <div id="message-warning"> Error boy</div>
