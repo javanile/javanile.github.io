@@ -594,8 +594,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'Font Awesome 5 Free';
-   content: "\f0ac";
+   font-family: 'Font Awesome 5 Brands';
+    /*font-weight: 900;*/
+   content: "\f09b";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -617,6 +618,7 @@ ul#nav li.current a { color: #F06000; }
 #call-to-action p {
    color: #636363;
    font-size: 17px;
+    margin-bottom: 0;
 }
 /*#
 call-to-action .button {
@@ -808,7 +810,7 @@ call-to-action .button {
 #contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'Font Awesome 5 Free';
-    font-weigth: 900;
+    /*font-weigth: 900;*/
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;
