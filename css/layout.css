@@ -593,15 +593,15 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
+    font-weight: 900;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'Font Awesome 5 Brands';
-    /*font-weight: 900;*/
-   content: "\f09b";
+   font-family: 'Font Awesome 5 Free';
+   content: "\f7a2";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -661,16 +661,17 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
+    font: 18px/24px 'opensans-bold', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fff;
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'Font Awesome 5 Free';
-   content: "\f10d";
+    content: "\f7b6";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -807,7 +808,8 @@ call-to-action .button {
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
+   font-weight: 900;
+    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
    margin-bottom: 6px;
@@ -815,8 +817,8 @@ call-to-action .button {
 #contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'Font Awesome 5 Free';
-    /*font-weigth: 900;*/
-   content: "\f0e0";
+    /*font-weight: 900;*/
+   content: "\f1fa";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
