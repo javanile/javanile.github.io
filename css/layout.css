@@ -235,48 +235,53 @@ ul#nav li.current a { color: #F06000; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+.text-section {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   padding-bottom: 0;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+.text-section a, .text-section a:visited  { color: #11ABB0; }
+.text-section a:hover, .text-section a:focus { color: #313131; }
 
-#resume h1 {
+.text-section h1 {
+   border-bottom: 3px solid #11ABB0;
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+.text-section h1 span {
    padding-bottom: 6px;
 }
-#resume h3 {
+.text-section h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+.text-section .header-col { padding-top: 3px; }
+.text-section .main-col { padding-right: 10%; }
 
+.top-divider {
+    margin-top: 24px;
+    padding-top: 84px;
+    border-top: 1px solid #E8E8E8;
+}
 .divider {
-   margin-bottom: 48px;
+   margin-bottom: 0;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+.text-section .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+.text-section .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+.text-section .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
