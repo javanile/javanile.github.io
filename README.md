@@ -6,4 +6,4 @@ Public website
 
 ----
 
-Coypleft © from 2016 Javanile - A community project by Francesco Bianco.
+© Copyright 2020 Javanile - A community project by Francesco Bianco.
