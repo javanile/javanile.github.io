@@ -918,7 +918,7 @@ call-to-action .button {
 }
 #twitter li {
    margin: 6px 0px 12px 0;
-   line-height: 30px;
+   line-height: 25px;
 }
 #twitter li span {
    display: block;
@@ -961,9 +961,9 @@ footer .copyright li {
    display: inline;
 }
 footer .copyright li:before {
-    content: "\2022";
-    padding-left: 10px;
-    padding-right: 10px;
+    content: "-";
+    padding-left: 5px;
+    padding-right: 8px;
     color: #095153;
 }
 footer .copyright  li:first-child:before {

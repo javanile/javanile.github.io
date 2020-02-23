@@ -802,6 +802,9 @@ properly.
 	text-align: center !important;
 }
 
-
+ul.blob-list li {
+    margin-right: 15px;
+    display: inline-block;
+}
 
 
