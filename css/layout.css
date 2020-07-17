@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #2C842C; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #2C842C; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #2C842C; }
 
 
 /* ------------------------------------------------------------------ */
@@ -194,7 +194,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #2C842C; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -242,11 +242,11 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-.text-section a, .text-section a:visited  { color: #11ABB0; }
+.text-section a, .text-section a:visited  { color: #2C842C; }
 .text-section a:hover, .text-section a:focus { color: #313131; }
 
 .text-section h1 {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #2C842C;
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
@@ -803,7 +803,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #2C842C; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -866,7 +866,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #2C842C;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -885,7 +885,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #2C842C;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -897,7 +897,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #2C842C; }
 
 #message-warning i,
 #message-success i {
@@ -981,7 +981,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #2C842C;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
