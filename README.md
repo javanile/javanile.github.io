@@ -6,4 +6,4 @@ Public website
 
 ----
 
-© Copyright 2019-2020 Javanile - A community project by Francesco Bianco.
+© 2019-2021 Javanile - A community project by Francesco Bianco.
