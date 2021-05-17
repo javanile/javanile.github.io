@@ -2,7 +2,7 @@
 
 Public website
 
-* https://javanile.org
+* https://www.javanile.org
 
 ----
 
