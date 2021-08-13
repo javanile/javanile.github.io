@@ -2,7 +2,8 @@
 
 Public website
 
-* https://www.javanile.org
+* <https://www.javanile.org>
+* <https://javanile.github.io>
 
 ----
 
