@@ -188,7 +188,7 @@ ul#nav li.current a { color: #2C842C; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
+   padding-top: 120px;
    padding-bottom: 66px;
    overflow: hidden;
 }
@@ -237,7 +237,7 @@ ul#nav li.current a { color: #2C842C; }
 
 .text-section {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 110px;
    padding-bottom: 0;
    overflow: hidden;
 }
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #2C842C; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 110px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
@@ -657,7 +657,7 @@ call-to-action .button {
    overflow: hidden;
 }
 #testimonials .text-container {
-   padding-top: 96px;
+   padding-top: 110px;
    padding-bottom: 66px;
 }
 #testimonials h1 {
