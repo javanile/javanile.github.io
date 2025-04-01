@@ -224,6 +224,7 @@
    #about .main-col { padding-right: 30px; }
 
 
+
    /* Resume Section
    --------------------------------------------------------------------- */
    .text-section .header-col {
@@ -335,7 +336,7 @@
       line-height: 54px;
    }
 
-
+   .hide-on-mobile { display: none; }
 }
 
 /* mobile narrow
