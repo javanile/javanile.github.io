@@ -802,6 +802,8 @@ properly.
 	text-align: center !important;
 }
 
+.align-justify { text-align: justify !important; }
+
 ul.blob-list li {
     margin-right: 15px;
     display: inline-block;
