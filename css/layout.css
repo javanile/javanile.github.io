@@ -135,7 +135,7 @@ header .scrolldown a:hover { color: #2C842C; }
    text-transform: uppercase;
    letter-spacing: 2.5px;
    margin: 0 auto;
-   z-index: 100;
+   z-index: 10;
    position: fixed;
    left: 0;
    top: 40px;

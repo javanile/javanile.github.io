@@ -102,6 +102,7 @@
 /*	Modal Popup
 ------------------------------------------------------*/
 
+     /*
     $('.item-wrap a').magnificPopup({
 
        type:'inline',
@@ -111,7 +112,7 @@
        mainClass: 'mfp-fade'
 
     });
-
+*/
     $(document).on('click', '.popup-modal-dismiss', function (e) {
     		e.preventDefault();
     		$.magnificPopup.close();
